@@ -28,8 +28,8 @@ The noisy image is decomposed into multiple subbands using `swt2` and reconstruc
 ![image](https://github.com/user-attachments/assets/fe5c010f-c420-4027-b75d-8b4a18dd1287)
 
   Method 2
-  ![image](https://github.com/user-attachments/assets/1773b5c7-9f02-422f-813b-5a78dfafdb99)
-  ![image](https://github.com/user-attachments/assets/233c0e55-f6ff-42ab-ba5a-55941effeb86)
+![image](https://github.com/user-attachments/assets/1773b5c7-9f02-422f-813b-5a78dfafdb99)
+![image](https://github.com/user-attachments/assets/233c0e55-f6ff-42ab-ba5a-55941effeb86)
 
 ## Conclusion
 
