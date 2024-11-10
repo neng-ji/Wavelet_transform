@@ -43,5 +43,5 @@ Both methods effectively reduced noise, with further zeroing out leading to a cl
 
 ## How to Run
 1. Clone this repository.
-2. Open `denoising_project.m` in MATLAB.
+2. Open `runme.m` in MATLAB.
 3. Run the script to see the results.
