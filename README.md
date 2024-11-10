@@ -1,3 +1,8 @@
+.
+├── README.md
+├── denoising_project.m
+└── lena512noisy.bmp
+
 # Denoising Noisy Image with Wavelet Transform
 
 This project demonstrates image denoising using Wavelet Transform (SWT) in MATLAB. The focus is on reducing noise from a 512x512, 8-bit image through different decomposition and reconstruction techniques.
