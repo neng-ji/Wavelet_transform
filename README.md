@@ -14,10 +14,12 @@ The noisy image is decomposed into multiple subbands using `swt2` and reconstruc
 - **Initial Noise Reduction:**  
   High-frequency components were removed, significantly reducing noise.
 
-  Method 1
+Method 1
+
 ![image](https://github.com/user-attachments/assets/47ad08f2-95e4-4bb0-83a8-a8e9bbb5bc4d)
 
-  Method 2
+Method 2
+
 ![image](https://github.com/user-attachments/assets/fdb07460-0732-468c-bfd0-c09b8b9f206b)
 
 
