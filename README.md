@@ -9,6 +9,7 @@ This project demonstrates image denoising using Wavelet Transform (SWT) in MATLA
 The noisy image is decomposed into multiple subbands using `swt2` and reconstructed with `iswt2`.
 
 ## Results
+Original Image and Dft
 ![image](https://github.com/user-attachments/assets/5ce85500-d736-4654-8470-53ae1f60d941)
 
 - **Initial Noise Reduction:**  
